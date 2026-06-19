@@ -70,6 +70,7 @@ make clean    # removes build artifacts
 
 ## How To Run
 g++ -std=c++17 -Wall -Iinclude src/Book.cpp src/Member.cpp src/Transaction.cpp src/FileManager.cpp src/Library.cpp src/Auth.cpp src/main.cpp -o library_system.exe
+
 .\library_system.exe
 
 
