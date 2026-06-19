@@ -1,0 +1,17 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/d/Naveera/Internships/TEYZIX/Task 1/library_system'
+g++ -std=c++17 -Wall -Iinclude -c src/Book.cpp -o src/Book.o
+ 
+g++ -std=c++17 -Wall -Iinclude -c src/Member.cpp -o src/Member.o
+ 
+g++ -std=c++17 -Wall -Iinclude -c src/Transaction.cpp -o src/Transaction.o
+g++ -std=c++17 -Wall -Iinclude -c src/FileManager.cpp -o src/FileManager.o
+g++ -std=c++17 -Wall -Iinclude -c src/Library.cpp -o src/Library.o
+ 
+g++ -std=c++17 -Wall -Iinclude -c src/Auth.cpp -o src/Auth.o
+ 
+g++ -std=c++17 -Wall -Iinclude -c src/main.cpp -o src/main.o
+ 
+g++ -std=c++17 -Wall -Iinclude -o library_system src/Book.o src/Member.o src/Transaction.o src/FileManager.o src/Library.o src/Auth.o src/main.o
+make: Leaving directory '/d/Naveera/Internships/TEYZIX/Task 1/library_system'
+ 

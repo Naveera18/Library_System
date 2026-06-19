@@ -1,0 +1,4 @@
+TransactionID,BookID,BookTitle,MemberID,MemberName,IssueDay,DueDay,ReturnDay,Status,Fine
+1,1,Harry Potter,2,Naveera,0,14,18,Returned,40.00
+2,3,Namal,3,Ahmed,0,30,-1,Issued,500.00
+3,2,Peer-e-Kamil,2,Naveera,30,46,80,Returned,340.00

@@ -1,0 +1,409 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.4.1
+# Built for x86_64-pc-msys
+# Copyright (C) 1988-2023 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Fri Jun 19 18:28:52 2026
+
+# Variables
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+ 
+# environment
+SYSTEMDRIVE = C:
+# makefile (from 'Makefile', line 4)
+OBJ = $(SRC:.cpp=.o)
+# environment
+LC_ALL = C
+# makefile (from 'Makefile', line 3)
+SRC = src/Book.cpp src/Member.cpp src/Transaction.cpp src/FileManager.cpp src/Library.cpp src/Auth.cpp src/main.cpp
+# environment
+MXC_BIN_DIR = c:\Users\pc\AppData\Local\Programs\Microsoft VS Code\fcf604774b\resources\app\node_modules\@microsoft\mxc-sdk\bin
+# environment
+USERPROFILE = C:\Users\pc
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+LOCALAPPDATA = C:\Users\pc\AppData\Local
+# environment
+VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
+# environment
+VSCODE_CWD = C:\Users\pc\AppData\Local\Programs\Microsoft VS Code
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = %ProgramFiles%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make
+# environment
+GIT_CONFIG_VALUE_0 = explicit
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14980_JWONRWWMTPIJALRM
+# environment
+ONEDRIVECOMMERCIAL = C:\Users\pc\OneDrive - National University of Sciences & Technology
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmUdLjOXm90iZoXZiCv0oLQQAAAACAAAAAAAQZgAAAAEAACAAAADBrA2Ri1jMNlig8jyOCjgeEkCw8PjWB5rOLquTwW+I9wAAAAAOgAAAAAIAACAAAAAFTyaUveIUqi/Z4kImV1WURzRpBhIjcVcv8UqHb7Oe3WAAAADJNoj6oinj/ULPDw9OjRpI/Cm93qbAGwleOiFA25Q8n8yY1erxpE/TKTJSq57vDBH1sFQKDkwRqovebCAj82kUMZRrvx5UyOsJN84gSSHOsDg+iPNJlP1zF9YnsPBYq3hAAAAAq/00nQHF57MFjr1o0Q9y93QkTAwk45xZL393abIlToy45Zj5lVwg/YIp3OSB5vQHhwlz8/d7Ycdz+q7DDV8Jcw==
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\pc\AppData\Roaming\Code\CachedData\fcf604774b9f2674b473065736ee75077e256353
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = /c/Users/pc/AppData/Local/Temp
+# default
+.INCLUDE_DIRS := /usr/include
+# makefile
+MAKEFLAGS = pqrR
+# environment
+ONEDRIVE = C:\Users\pc\OneDrive - National University of Sciences & Technology
+# makefile
+CURDIR := /d/Naveera/Internships/TEYZIX/Task 1/library_system
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+EFC_24152_2946480783 = 1
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+COPILOT_OTEL_FILE_EXPORTER_PATH = \\.\nul
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+PT8HOME = C:\Program Files\Cisco Packet Tracer 9.0.0
+# environment
+VSCODE_PID = 14980
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+EFC_24152_1592913036 = 1
+# automatic
+*F = $(notdir $*)
+# environment
+GIT_CONFIG_COUNT = 1
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\pc\\AppData\\Local\\Programs\\Microsoft VS Code\\fcf604774b\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+# environment
+ONEDRIVECONSUMER = C:\Users\pc\OneDrive
+# default
+MAKE_HOST := x86_64-pc-msys
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := /bin/sh
+# environment
+HOMEPATH = \Users\pc
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+EFC_24152_2775293581 = 1
+# environment
+PATH = /c/Program Files/Common Files/Oracle/Java/javapath:/c/Program Files (x86)/Common Files/Oracle/Java/java8path:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files/dotnet:/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit:/c/Program Files/Java/jdk-24/bin:/c/Program Files/Git/cmd:/c/MinGW/bin:/c/Program Files/nodejs:/c/Program Files/MATLAB/R2025b/bin:/c/Users/pc/AppData/Local/Programs/Python/Launcher:/c/Users/pc/AppData/Local/Microsoft/WindowsApps:/c/Users/pc/AppData/Local/Programs/Microsoft VS Code/bin:/ucrt64/bin:/c/Users/pc/AppData/Local/Python/bin:/c/Users/pc/AppData/Roaming/npm:/c/Program Files/nodejs/node_modules/npm:/c/Users/pc/AppData/Local/Python/pythoncore-3.14-64/Scripts:/usr/bin:C:/ucrt64/bin
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+COMPUTERNAME = NAVEERA
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+QT_DEVICE_PIXEL_RATIO = auto
+# environment
+APPLICATION_INSIGHTS_NO_STATSBEAT = true
+# environment
+LOGONSERVER = \\NAVEERA
+# environment
+USERNAME = pc
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+ 
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+GIT_CONFIG_KEY_0 = safe.bareRepository
+# environment
+USERDOMAIN = NAVEERA
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# environment
+EFC_24152_3789132940 = 1
+# environment
+__COMPAT_LAYER = DetectorsAppHealth
+# makefile
+.DEFAULT_GOAL := all
+# default
+MAKE_VERSION := 4.4.1
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+!D: = d:\Naveera\Internships\TEYZIX\Task 1\library_system
+# environment
+USERDOMAIN_ROAMINGPROFILE = NAVEERA
+# environment
+NUMBER_OF_PROCESSORS = 12
+# environment
+PUBLIC = C:\Users\Public
+# environment
+APPDATA = C:\Users\pc\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+HOME = /home/pc
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = /c/Users/pc/AppData/Local/Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\fc5dc1ab-1.125.1-main-sock
+# environment
+TERM = xterm-256color
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# makefile (from 'Makefile', line 5)
+TARGET = library_system
+# environment
+SESSIONNAME = Console
+# environment
+PT7HOME = C:\Program Files\Cisco Packet Tracer 7.3.0
+# environment
+EFC_24152_2283032206 = 1
+# makefile (from 'Makefile', line 2)
+CXXFLAGS = -std=c++17 -Wall -Iinclude
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs notintermediate shell-export archives jobserver output-sync check-symlink load dospaths
+# environment
+PROCESSOR_REVISION = 9a04
+# environment
+EFC_24152_4126798990 = 1
+# makefile (from 'Makefile', line 1)
+CXX = g++
+# environment
+VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+# variable set hash-table stats:
+# Load=117/1024=11%, Rehash=0, Collisions=14/152=9%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# src (device 3524091061, inode 281474976712229): 4 files, no impossibilities so far.
+# . (device 3524091061, inode 562949953422868): 11 files, no impossibilities.
+
+# 15 files, no impossibilities in 2 directories.
+
+# Implicit Rules
+
+%.o: %.cpp
+#  recipe to execute (from 'Makefile', line 13):
+	$(CXX) $(CXXFLAGS) -c $< -o $@
+
+# 1 implicit rules, 0 (0.0%) terminal.
+# Files
+
+# Not a target:
+src/Auth.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+library_system: src/Book.o src/Member.o src/Transaction.o src/FileManager.o src/Library.o src/Auth.o src/main.o
+#  Implicit rule search has not been done.
+#  Last modified 2026-06-19 18:24:41.8778186
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/5=0%
+#  recipe to execute (from 'Makefile', line 10):
+	$(CXX) $(CXXFLAGS) -o $(TARGET) $(OBJ)
+
+# Not a target:
+src/Transaction.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2026-06-19 17:21:27.8739551
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/Library.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 16):
+	rm -f $(OBJ) $(TARGET)
+
+# Not a target:
+src/Member.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+ 
+src/main.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: library_system
+#  Phony target (prerequisite of .PHONY).
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/5=0%
+
+# Not a target:
+src/FileManager.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/Book.cpp:
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2026-06-19 17:21:27.8919352
+#  File has been updated.
+#  Successfully updated.
+
+src/Book.o: src/Book.cpp
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/Book'
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := src/Book.o
+# automatic
+# * := src/Book
+# automatic
+# < := src/Book.cpp
+# automatic
+# + := src/Book.cpp
+# automatic
+# % := 
+# automatic
+# ^ := src/Book.cpp
+# automatic
+# ? := src/Book.cpp
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/15=7%
+#  recipe to execute (from 'Makefile', line 13):
+	$(CXX) $(CXXFLAGS) -c $< -o $@
+
+.PHONY: all clean
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=15/1024=1%, Rehash=0, Collisions=0/41=0%
+# VPATH Search Paths
+
+ 
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 31 / storage = 310 B / avg = 10 B
+# current buf: size = 8162 B / used = 310 B / count = 31 / avg = 10 B
+
+# strcache performance: lookups = 46 / hit rate = 32%
+# hash-table stats:
+# Load=31/8192=0%, Rehash=0, Collisions=0/46=0%
+# Finished Make data base on Fri Jun 19 18:28:52 2026
+
+ 
