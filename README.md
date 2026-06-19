@@ -1,5 +1,6 @@
 # Library Management System (CLI + File Handling)
-
+## Author Name : Naveera Farhan
+## Introduction
 A console-based library management system written in modern C++ (C++17), built with
 object-oriented design and persistent file storage. Supports book/member management,
 borrowing & returns with overdue fines, search, reporting, CSV export, and a role-based
